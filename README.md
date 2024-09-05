@@ -1,4 +1,4 @@
-# Microsoft_Excel_E-Commerce_Sales_And_Profit_Report_2024
+# MS_Excel_E-Commerce_Sales_And_Profit_Report_2024
 
 A Microsoft Excel Dashboard visualising E-Commerce Sale & Profit
 
