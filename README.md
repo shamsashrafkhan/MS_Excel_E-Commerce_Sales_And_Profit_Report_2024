@@ -12,4 +12,5 @@ Table of Contents:
 4. A folder containing Microsoft Office Data Connection file (My Data Sources)
 
 Description: This project is done on Microsoft Excel 2016 (16.0.5408.1001) MSO (16.0.5404.1000) 64-bit. 
-All the CSV and XLSX files contain dummy data.
+
+Note: All the CSV and XLSX files contain dummy data.
